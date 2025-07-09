@@ -18,7 +18,7 @@ Cara Kerja 🛠️
 Teknologi yang Digunakan 💻
 PusDig dibangun menggunakan:
 - PHP Native untuk backend, memanfaatkan PHP murni tanpa framework untuk memberikan kontrol penuh dan performa yang lebih baik. 🖥️
-- 
+  
 Instalasi 🔧
 - Clone Repository
   Clone repositori ini ke server lokal atau hosting Anda.
