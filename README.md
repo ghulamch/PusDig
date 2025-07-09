@@ -31,3 +31,7 @@ Instalasi 🔧
 
 - Jalankan Aplikasi
   Setelah mengkonfigurasi database, buka aplikasi di browser Anda. Aplikasi dapat dijalankan di server lokal seperti XAMPP, WAMP, atau di server hosting langsung.
+
+- Admin
+  Email : admin@gmail.com
+  Pass : admin
